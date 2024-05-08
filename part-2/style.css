@@ -1,0 +1,10 @@
+.tweet {
+    border: 1px solid  lightblue ;
+    border-radius: 3px;
+    margin: 20px;
+};
+
+.username, .date {
+    display: inline-block;
+    margin: 0 10px;
+}
